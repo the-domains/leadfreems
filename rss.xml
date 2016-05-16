@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Lead Free Mississippi]]></title>
         <description><![CDATA[Lead Free Mississippi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/leadfreems/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 23:11:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 May 2016 22:36:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/leadfreems/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lead and Violence]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2a3b103-5f50-4d80-a01a-622204220c4d.png">]]></description>
+            <link>https://thegrid.ai/leadfreems/lead-and-violence/index.html</link>
+            <guid isPermaLink="false">85cd9ca8-c5e7-4cf5-bac5-101167e365c1</guid>
+            <pubDate>Mon, 16 May 2016 22:35:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Lead?]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/317d09b7-ff3f-475b-a3fe-9d9e3b0381d1.jpg">]]></description>
-            <link>undefinedwhy-lead/index.html</link>
+            <link>https://thegrid.ai/leadfreems/why-lead/index.html</link>
             <guid isPermaLink="false">cab8fec6-f5f1-4a9a-9cbe-4245dc7fd2a6</guid>
             <pubDate>Tue, 10 May 2016 23:11:23 GMT</pubDate>
         </item>
